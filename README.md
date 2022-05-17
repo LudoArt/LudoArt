@@ -8,7 +8,7 @@
 ### Top Repositories
 
 <a href="https://github.com/LudoArt/LudoArt.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LudoArt&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LudoArt&repo=LudoArt.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
 
