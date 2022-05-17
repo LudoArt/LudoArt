@@ -8,3 +8,7 @@
 ### Top Repositories
 
 [![LudoArt's Blog](https://github-readme-stats.vercel.app/api?username=LudoArt)](https://github.com/LudoArt/LudoArt.github.io)
+
+### Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LudoArt)](https://github.com/LudoArt/LudoArt.github.io)
