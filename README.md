@@ -7,4 +7,4 @@
 
 ### Top Repositories
 
-[![LudoArt's GitHub stats](https://github-readme-stats.vercel.app/api?username=LudoArt)](https://github.com/LudoArt/LudoArt.github.io)
+[![LudoArt's Blog](https://github-readme-stats.vercel.app/api?username=LudoArt)](https://github.com/LudoArt/LudoArt.github.io)
