@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Yoo,+I'm+Ludo+👋;A+gamer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=1F98F7&width=200&lines=Yoo,+I'm+Ludo+👋;A+gamer!)](https://git.io/typing-svg)
 
 ### About me
 
