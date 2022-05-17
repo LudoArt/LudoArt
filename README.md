@@ -1,4 +1,4 @@
-### Yoo, I'm Ludo 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Yoo,+I'm+Ludo+👋;A+gamer!)](https://git.io/typing-svg)
 
 ### About me
 
